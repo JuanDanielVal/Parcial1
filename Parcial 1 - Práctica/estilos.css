@@ -1,0 +1,60 @@
+body{
+    background-color: #f2f3f5;
+    padding: 10pt 10pt;
+}
+
+.page{
+    border:rgb(255, 255, 255) 2px solid;
+    
+    padding: 70px 140px 100px 140px;
+    margin:30px 150px;
+    background-color: white;
+    font-family: 'Times new Roman';
+    border-bottom: 1px solid black;
+    
+    
+}
+
+
+h1{
+
+    font-size: 50px;
+    padding: 2px;
+    text-align: center;
+    color: black;
+}
+
+h2{
+    font-size: 22pt;
+    font-style: italic;
+    color: black;
+}
+
+h4{
+    font-size: 14pt;
+    color: black;
+}
+h3{
+    font-size: 14pt;
+    color: black;
+}
+
+p{
+
+    color:rgb(0, 0, 0);
+    font-size: 14pt;
+}
+
+#li{
+    font-size: 14pt;
+    text-align: justify;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+li{
+    font-size: 14pt;
+    color: black;
+}
+
